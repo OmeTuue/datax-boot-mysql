@@ -58,7 +58,7 @@
 
         <!-- common support module -->
         <module>plugin-rdbms-util</module>
-        <!--<module>plugin-unstructured-storage-util</module>-->
+        <module>plugin-unstructured-storage-util</module>
         <!--<module>hbase20xsqlreader</module>-->
         <!--<module>hbase20xsqlwriter</module>-->
     </modules>
