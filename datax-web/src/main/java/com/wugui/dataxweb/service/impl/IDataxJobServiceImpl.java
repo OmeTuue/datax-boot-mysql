@@ -31,7 +31,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * @program: datax-all
+ * @program: datax-boot-mysql
  * @author: huzekang
  * @create: 2019-06-17 11:26
  **/

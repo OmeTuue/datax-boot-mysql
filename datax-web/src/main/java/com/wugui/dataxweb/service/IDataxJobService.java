@@ -4,7 +4,7 @@ import com.alibaba.datax.common.log.LogResult;
 import com.wugui.dataxweb.dto.RunJobDto;
 
 /**
- * @program: datax-all
+ * @program: datax-boot-mysql
  * @author: huzekang
  * @create: 2019-06-17 11:25
  **/

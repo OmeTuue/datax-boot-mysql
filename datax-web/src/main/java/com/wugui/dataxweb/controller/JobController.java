@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @program: datax-all
+ * @program: datax-boot-mysql
  * @description:
  * @author: huzekang
  * @create: 2019-05-05 14:21

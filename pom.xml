@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.alibaba.datax</groupId>
-    <artifactId>datax-all</artifactId>
+    <artifactId>datax-boot-mysql</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <dependencies>
         <dependency>
@@ -13,7 +13,7 @@
         </dependency>
     </dependencies>
 
-    <name>datax-all</name>
+    <name>datax-boot-mysql</name>
     <packaging>pom</packaging>
 
     <properties>
