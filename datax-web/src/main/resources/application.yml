@@ -1,4 +1,10 @@
-
+spring:
+  #数据源
+  datasource:
+    username:
+    password:
+    url:
+    driver-class-name: com.mysql.jdbc.Driver
 
 
 
