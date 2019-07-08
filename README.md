@@ -23,6 +23,7 @@
 * [ ] 实现datax分布式作业
 * [ ] 实现部分写插件支持自动建表功能
 
+http://localhost:8080/index.html#/datax/job 
 
 ## 前端项目
 [github地址](https://github.com/zhouhongfa/datax-vue-admin.git)
